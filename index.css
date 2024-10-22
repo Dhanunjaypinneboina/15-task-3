@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav-1{
+    background-color: aqua;
+    height: 50px;
+}
+
+.sticky-bar{
+    text-align: center;
+    margin-top: 20px;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
